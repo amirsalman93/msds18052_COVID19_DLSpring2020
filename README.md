@@ -5,9 +5,6 @@ This repository contains code and results for COVID-19 classification assignment
 Dataset is available at the following path.
 https://drive.google.com/drive/u/1/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR
 
-If you want .zip file, go to following path.
-https://drive.google.com/file/d/1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK/viewA
-
 # Results:
 Following are the Confusion Matrix and Accuracy for best model.
 ## Confusion Matrix
