@@ -6,6 +6,10 @@ This repository contains code and results for COVID-19 classification assignment
 Dataset is available at the following path.
 https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view
 
+## Weights
+Weights for all the experiments performed are available at following location:
+https://drive.google.com/drive/folders/1X5blPHW-Vgz_IOYCfwyRBeNgoyd-w4s_?usp=sharing
+
 ## Experiment 1 (VGG-16) with BCE with Logits Loss:
 ### Accuracy and Loss Curves
 ![Accuracy and Loss Curves](results_focal_loss/1_1.JPG)
