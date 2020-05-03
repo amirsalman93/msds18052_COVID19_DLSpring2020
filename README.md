@@ -42,13 +42,13 @@ https://drive.google.com/drive/folders/1X5blPHW-Vgz_IOYCfwyRBeNgoyd-w4s_?usp=sha
 
 ## Experiment 4 (RES-18) with Focal Loss (Gamma = 2):
 ### Accuracy and Loss Curves
-![Accuracy and Loss Curves](results_focal_loss/4_1.JPG)
+![Accuracy and Loss Curves](results_part2/4_1.JPG)
 
 ### Training Confusion Matrix, Accuracy and F1-Score
-![Validation Metrics](results_focal_loss/4_2.JPG)
+![Validation Metrics](results_part2/4_2.JPG)
 
 ### Validation Confusion Matrix, Accuracy and F1-Score
-![Validation Metrics](results_focal_loss/4_3.JPG)
+![Validation Metrics](results_part2/4_3.JPG)
 
 
 # Part 1 (Binary Cross Entropy Loss)
