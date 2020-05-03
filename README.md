@@ -56,6 +56,9 @@ https://drive.google.com/drive/folders/1X5blPHW-Vgz_IOYCfwyRBeNgoyd-w4s_?usp=sha
 Dataset is available at the following path.
 https://drive.google.com/drive/u/1/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR
 
+## Weights
+Weights for all the experiments performed are available in folder "weights" of this repo.
+
 ## Results:
 Following are the Confusion Matrix and Accuracy for best model.
 ### Confusion Matrix
