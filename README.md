@@ -1,23 +1,70 @@
 # msds18052_COVID19_DLSpring2020
 This repository contains code and results for COVID-19 classification assignment by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This assignment is only for learning purposes and is not intended to be used for clinical purposes.
 
-# Dataset
+# Part 2 (BCEWithLogits Loss and Focal Loss)
+## Dataset
+Dataset is available at the following path.
+https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view
+
+## Experiment 1 (VGG-16) with BCE with Logits Loss:
+### Accuracy and Loss Curves
+![Accuracy and Loss Curves](results_focal_loss/1_1.JPG)
+
+### Training Confusion Matrix, Accuracy and F1-Score
+![Validation Metrics](results_focal_loss/1_2.JPG)
+
+### Validation Confusion Matrix, Accuracy and F1-Score
+![Validation Metrics](results_focal_loss/1_3.JPG)
+
+## Experiment 2 (VGG-16) with Focal Loss (Gamma = 2):
+### Accuracy and Loss Curves
+![Accuracy and Loss Curves](results_focal_loss/2_1.JPG)
+
+### Training Confusion Matrix, Accuracy and F1-Score
+![Validation Metrics](results_focal_loss/2_2.JPG)
+
+### Validation Confusion Matrix, Accuracy and F1-Score
+![Validation Metrics](results_focal_loss/2_3.JPG)
+
+## Experiment 3 (RES-18) with BCE with Logits Loss:
+### Accuracy and Loss Curves
+![Accuracy and Loss Curves](results_focal_loss/3_1.JPG)
+
+### Training Confusion Matrix, Accuracy and F1-Score
+![Validation Metrics](results_focal_loss/3_2.JPG)
+
+### Validation Confusion Matrix, Accuracy and F1-Score
+![Validation Metrics](results_focal_loss/3_3.JPG)
+
+## Experiment 4 (RES-18) with Focal Loss (Gamma = 2):
+### Accuracy and Loss Curves
+![Accuracy and Loss Curves](results_focal_loss/4_1.JPG)
+
+### Training Confusion Matrix, Accuracy and F1-Score
+![Validation Metrics](results_focal_loss/4_2.JPG)
+
+### Validation Confusion Matrix, Accuracy and F1-Score
+![Validation Metrics](results_focal_loss/4_3.JPG)
+
+
+# Part 1 (Binary Cross Entropy Loss)
+## Dataset
 Dataset is available at the following path.
 https://drive.google.com/drive/u/1/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR
 
-# Results:
+## Results:
 Following are the Confusion Matrix and Accuracy for best model.
-## Confusion Matrix
-### Training
+### Confusion Matrix
+#### Training
 ![Training Confusion Matrix](results/training-confusion-matrix.png)
 
-### Testing
+#### Testing
 ![Testing Confusion Matrix](results/testing-confusion-matrix.png)
 
-### Validation
+#### Validation
 ![Validation Confusion Matrix](results/validation-confusion-matrix.png)
 
-## Accuracy
+### Accuracy
 Training: 95%
 <br/>
 Testing: 96%
