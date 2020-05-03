@@ -20,7 +20,7 @@ https://drive.google.com/drive/folders/1X5blPHW-Vgz_IOYCfwyRBeNgoyd-w4s_?usp=sha
 ### Validation Confusion Matrix, Accuracy and F1-Score
 ![Validation Metrics](results_part2/1_3.JPG)
 
-## Experiment 2 (VGG-16) with Focal Loss (Gamma = 2):
+## Experiment 2 (VGG-16) with Focal Loss (Gamma = 2) - Model with best accuracy of COVID-19 class:
 ### Accuracy and Loss Curves
 ![Accuracy and Loss Curves](results_part2/2_1.JPG)
 
