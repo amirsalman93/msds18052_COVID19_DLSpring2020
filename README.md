@@ -12,33 +12,33 @@ https://drive.google.com/drive/folders/1X5blPHW-Vgz_IOYCfwyRBeNgoyd-w4s_?usp=sha
 
 ## Experiment 1 (VGG-16) with BCE with Logits Loss:
 ### Accuracy and Loss Curves
-![Accuracy and Loss Curves](results_focal_loss/1_1.JPG)
+![Accuracy and Loss Curves](results_part2/1_1.JPG)
 
 ### Training Confusion Matrix, Accuracy and F1-Score
-![Validation Metrics](results_focal_loss/1_2.JPG)
+![Validation Metrics](results_part2/1_2.JPG)
 
 ### Validation Confusion Matrix, Accuracy and F1-Score
-![Validation Metrics](results_focal_loss/1_3.JPG)
+![Validation Metrics](results_part2/1_3.JPG)
 
 ## Experiment 2 (VGG-16) with Focal Loss (Gamma = 2):
 ### Accuracy and Loss Curves
-![Accuracy and Loss Curves](results_focal_loss/2_1.JPG)
+![Accuracy and Loss Curves](results_part2/2_1.JPG)
 
 ### Training Confusion Matrix, Accuracy and F1-Score
-![Validation Metrics](results_focal_loss/2_2.JPG)
+![Validation Metrics](results_part2/2_2.JPG)
 
 ### Validation Confusion Matrix, Accuracy and F1-Score
-![Validation Metrics](results_focal_loss/2_3.JPG)
+![Validation Metrics](results_part2/2_3.JPG)
 
 ## Experiment 3 (RES-18) with BCE with Logits Loss:
 ### Accuracy and Loss Curves
-![Accuracy and Loss Curves](results_focal_loss/3_1.JPG)
+![Accuracy and Loss Curves](results_part2/3_1.JPG)
 
 ### Training Confusion Matrix, Accuracy and F1-Score
-![Validation Metrics](results_focal_loss/3_2.JPG)
+![Validation Metrics](results_part2/3_2.JPG)
 
 ### Validation Confusion Matrix, Accuracy and F1-Score
-![Validation Metrics](results_focal_loss/3_3.JPG)
+![Validation Metrics](results_part2/3_3.JPG)
 
 ## Experiment 4 (RES-18) with Focal Loss (Gamma = 2):
 ### Accuracy and Loss Curves
